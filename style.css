@@ -1,0 +1,103 @@
+.clear-filter[filter-color=black] {
+    background: linear-gradient(0deg,rgba(44, 44, 44, 0.32),rgba(27, 27, 25, 0.86));
+}
+
+.mainIcon {
+	width: 115px;
+	height: 110px;
+}
+
+.brand {
+	margin-top: 50px;
+}
+
+.h1-seo {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.subtitle {
+	margin-top: 0px;
+}
+
+.bg-primary {
+    background-color: #0a0a0a66!important;
+    margin-bottom: 0px;
+    align-self: flex-end;
+}
+
+.pricing {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.price {
+	background-image: url('images/img2.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+.card {
+	margin-right: 20px;
+	background-color: rgba(255,255,255,0.9);
+	width: 400px;
+	height: 400px;
+}
+
+.card-text {
+	line-height: 1.25em;
+	margin-bottom: 0.5em;
+	font-size: 14px;
+    font-family: Montserrat,Helvetica Neue,Arial,sans-serif;
+    font-weight: 500;
+}
+
+.card-title {
+	font-weight: 550;
+	margin-top: 15px;
+}
+
+.btn-purchase {
+	margin-top: auto;
+}
+
+.btn-primary {
+	background-color: #FFCE59;
+}
+
+.blockquote {
+	background-color: rgba(255,255,255,0.7);
+}
+
+.mb-0 {
+	color: black;
+}
+
+.btn-send {
+	margin-top: 20px;
+}
+
+.socmed-icons {
+	width: 40px;
+	height: 40px;
+}
+
+.card:hover {
+	transition: all 0.6s;
+	transform: scale(1.05);
+}
+
+.btn-primary:hover {
+	background-color: #F9B248;
+}
+
+.socmed-icons {
+	-webkit-filter: grayscale(1) !important;
+	filter: grayscale(1) !important;
+}
+
+.socmed-icons:hover {
+	-webkit-filter: grayscale(0) !important;
+	filter: grayscale(0) !important;
+}
